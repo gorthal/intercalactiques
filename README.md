@@ -114,7 +114,9 @@ Si vous aimez les jeux qui vous font faire « aaawww » et vous font sentir tout
 
 
 ## Science-Fiction et jeu de rôle : explorer l’autre
+Lors de cette table ronde, nous évoquons les liens entre les cultures de la SF et les jeux de rôles.
 
+### Historique des JDR de SF
 Les JDR et la SF c’est plus de 120 “gros jeux” édités depuis les années 70. Pour plus de 1.500 ouvrages (livre de règles, suppléments, etc.)
 Il en existe de toutes les formes, tous les formats sur tous les genres et sous genres de la SF.
 Depuis l’arrivée d’internet et l’émergence du phénomène d’auto édition, ce chiffre de 120 a explosé et se serait bien difficile de compter les JDR de SF. Sans doute bien plus de 300.
@@ -123,7 +125,7 @@ La SF a toujours été présente dans les jeux de rôle. Dès l’apparition du 
 
 Une rapide rétrospective des titres les + marquants:
 
-### Les années 70
+#### Les années 70
 -Traveler, 1977 plus de 230 ouvrages et suppléments. Le Donjon et Dragon de la SF
 - Métamorphosis Alpha (de Jim Ward) 1976
 - Starfaring (de Ken St. André) 1976
@@ -134,18 +136,18 @@ Une rapide rétrospective des titres les + marquants:
 - Warlord of Mars Starships & Spacemen 1978 
 - Star Trek: Adventure Gaming in the Final Frontier 1978
 
-### Les années 80
+#### Les années 80
 - 2300 AD, 1986 space op
 - MEGA 1984
 - Starwars 1987
 - ShadowRun 1989
 - Bitume 1986
 
-### Les années 90
+#### Les années 90
 - Star Trek : Deep Space Nine 1999
 - Fading Sun 1996
 
-### Les années 2000
+#### Les années 2000
 - Star Without numbers, 2010
 - Babylon 5; 2003
 - Battlestar Galactica 2007
@@ -153,13 +155,13 @@ Une rapide rétrospective des titres les + marquants:
 - Eclipse Phase 2009
 - Apocalypse World 2010
 
-### Les année 20XX
+#### Les année 20XX
 - Dune (sept 2021)
 - Oreste, production francophone par ElderCraft
 - Alien
 - Starfinder
 
-### L’explosion de l’auto publication, petits éditeurs, Jam
+#### L’explosion de l’auto publication, petits éditeurs, Jam
 - [Ultra Violet GrassLand](https://wizardthieffighter.itch.io/ultraviolet-grasslands-and-the-black-city-uvg)
 - [Mothership](https://itch.io/c/817769/mothership)
 - [Dream Askew](https://buriedwithoutceremony.com/dream-askew)
