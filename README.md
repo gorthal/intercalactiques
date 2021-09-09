@@ -9,7 +9,7 @@ Lors de cette table ronde, nous évoquons différents jeux de rôle sympathiques
 **Sanctuaire (fantasy)**
 Auteur : Acritarche
 Jdr d’héroïque fantasy, kit d’initiation complet : règles, scénario, prétirés, et extrêmement didactique pour aider le MJ a proposer, improviser, comprendre la logique du jeu. 
-(lien)[https://www.philibertnet.com/fr/dungeon-world/51008-sanctuaire-2100000401895.html]
+[lien(https://www.philibertnet.com/fr/dungeon-world/51008-sanctuaire-2100000401895.html)
 
 ### Aide de jeu :
 **Le jeu du destin (fantasy)**
@@ -38,18 +38,18 @@ Jdr sans MJ. Règles très simples : en tirant des cartes sur lesquelles sont in
 **Donjons et Siphons (fantasy parodique)**
 Auteur : Nicolas le Vif
 Même mécanique que Pour la Reine mais cette fois on va jouer pour savoir qui deviendra le président du SEAU, l’association des monstres qui lavent les toilettes du donjon !
-For the drama (site/appli plein de jdr avec différents thèmes sur internet)
+[For the drama](https://www.forthedrama.com/)
 
 ### Jdr solo ou à 2
 
 **Angela Quidam**
 Angela est fan de jeux de rôle solo, vous trouverez son travail de recueil de jeux, ses créations et son blog ici :
-- (Une collection de +1.000 jeux solo)[https://itch.io/c/574927/the-hermits-club-all-solo-ttrpgs-and-larps-on-itchio]
-- (Le blog d'Angela)[https://ermites.club/]
-- (Sa page itch.io)[https://angela-quidam.itch.io/]
+- [Une collection de +1.000 jeux solo](https://itch.io/c/574927/the-hermits-club-all-solo-ttrpgs-and-larps-on-itchio)
+- [Le blog d'Angela](https://ermites.club/)
+- [Sa page itch.io](https://angela-quidam.itch.io/)
 
 **C'est Pas du JDR : les jeux solos**
-Un article plein de ressources à découvrir (lien)[https://www.cestpasdujdr.fr/les-jeux-de-role-solo/]
+Un article plein de ressources à découvrir [lien](https://www.cestpasdujdr.fr/les-jeux-de-role-solo/)
 
 ### Petits jdrs indés 
 [Les Jeux de Guillaume Jentey](https://guillaumejentey.itch.io/)
@@ -57,14 +57,17 @@ Un article plein de ressources à découvrir (lien)[https://www.cestpasdujdr.fr/
 **Run, die and repeat (tout genre)**
 Auteur : Labrysgame
 On joue 10, 15 ou 20 minutes un personnage qui a une mission, un défi sauf qu’à chaque jet de dé manqué, il meurt et on recommence depuis le début ! Très simple, très fun !
+[lien](https://troplongpaslu.fr/jeux-de-role-court/run-die-repeat/)
 
 **Donjon et Bananes (tout genre)**
 Auteur : Simon Petterson
 Jdr sans MJ. On a un scénario scripté (il y en a 4 avec les règles du jeu : fantasy, space opéra, survival zombi et aventures dans la jungle) et un système mécanique d’épuisement de jetons ! Très fun, narratif et avec une vraie adversité : on peut perdre !
+[lien](https://matthieu-be.itch.io/donjons-et-bananes)
 
 **Bulles (poétique)**
 Auteure : Sylphelle
 Jdr sans MJ. Chaque joueur incarne un personnage dans un sous-marin de poche individuel. On choisit ensemble le but de la partie (sauvetage, exploration, etc.) et chaque scène est décrite par un joueur qui va lancer les dés pour déterminer dans quelle émotion il va être lors de cette scène ! Jeu simple, poétique, très intéressant, superbe !
+[lien](https://sylphelle.itch.io/bulles)
 
 **Dread (horreur)**
 Auteur : Epidiah Ravachol
@@ -73,4 +76,22 @@ Un scénario d’horreur et une tour de Jenga ! A chaque action entreprise un jo
 **Comment être parasite ? (sf barré !)**
 Auteur : Steve Jakoubovitch
 Chacun joue un parasite extraterrestre dans la tête d’un employé d’une PME façon COGIP. Pour contrôler cet employé chaque parasite est dans une zone différente : l’un contrôle les jambes, l’un la main droite, l’autre la main gauche… et pareil pour la parole : l’un contrôle les noms communs, l’autre les noms propres, un autres les verbes… On doit tout faire en commun sans se tromper… parce que quand on se trompe, l’hôte morfle sévère ! Très drôle à jouer !
+[lien](https://steve-j.itch.io/mais-comment-peut-on-tre-parasite)
 
+### Des jeux pour jouer avec les plus jeunes
+
+
+### Des jeux calmes, les JDR doudous
+
+**Un monde pour toi**
+Un monde pour moi est un mini jeu de rôle narratif et fantastico-onirique de sensibilisation sur le handicap moteur pour deux joueurs/joueuses.
+Vous jouez Alex, une personne en fauteuil dont le quotidien va être chamboulé par un mystérieux pouvoir, et Murphy, son environnement pas toujours coopératif.
+Durée moyenne d’une partie : environ 20 à 30 mn.
+8 pages.
+(lien)[https://axolotl-jdr.itch.io/un-monde-pour-moi]
+
+**L’automne des géants**
+L’Automne des Géants est un jeu paisible et calme pour 1 à 5 joueurs et des parties de 2 heures ou +
+
+C’est un jeu collaboratif dans lequel les joueurs incarnent un groupe d’humains qui guide et protège un Géant en route pour se reposer pendant l’hiver. Une partie de l’Automne des Géants raconte un voyage paisible et mélancolique au travers de lieux isolés et merveilleux. C’est l’histoire d’un petit groupe de personnes qui feront tout pour protéger leur ami.
+[lien](https://matthieu-be.itch.io/automne-des-geants)
