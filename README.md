@@ -1,6 +1,6 @@
 # Les Intercalactiques
 ## Jeux de rôle et tables rondes en live pour les Intergalactiques
-[![N|Solid](https://intergalactiques.net/wp-content/uploads/2021/09/INTERCALACTIQUES_3.jpg)]
+(https://intergalactiques.net/wp-content/uploads/2021/09/INTERCALACTIQUES_3.jpg)
 
 ## Découvrir le jeu de rôle : jouer l’autre
 Lors de cette table ronde, nous évoquons différents jeux de rôle sympathiques pour débuter. Voici une petite sélection.
@@ -10,6 +10,12 @@ Lors de cette table ronde, nous évoquons différents jeux de rôle sympathiques
 Auteur : Acritarche
 Jdr d’héroïque fantasy, kit d’initiation complet : règles, scénario, prétirés, et extrêmement didactique pour aider le MJ a proposer, improviser, comprendre la logique du jeu. 
 [lien(https://www.philibertnet.com/fr/dungeon-world/51008-sanctuaire-2100000401895.html)
+
+**Chroniques Oubliées**
+Editeur : Black Books Edition
+La gamme Chroniques Oubliées, conçue pour la découverte du JdR, est la version modernisée et simplifiée (mais pas simpliste) du premier des jeux de rôle. Aux mécaniques de base viennent s'ajouter des "briques" modulaires, optionnelles, pour enrichir l'expérience de jeu.
+Si vous souhaitiez découvrir (ou faire découvrir) le jeu de rôle ou si vous êtes à la recherche d'un jeu rapide à mettre en place pour renouer avec le loisir, ne cherchez pas plus loin !
+https://www.black-book-editions.fr/catalogue.php?id=477
 
 ### Aide de jeu :
 **Le jeu du destin (fantasy)**
@@ -79,7 +85,7 @@ Chacun joue un parasite extraterrestre dans la tête d’un employé d’une PME
 [lien](https://steve-j.itch.io/mais-comment-peut-on-tre-parasite)
 
 ### Des jeux pour jouer avec les plus jeunes
-
+Cf [l'article sur le site c'est pas du JDR](https://www.cestpasdujdr.fr/jouer-aux-jeux-de-role-avec-des-enfants/)
 
 ### Des jeux calmes, les JDR doudous
 
@@ -88,10 +94,80 @@ Un monde pour moi est un mini jeu de rôle narratif et fantastico-onirique de se
 Vous jouez Alex, une personne en fauteuil dont le quotidien va être chamboulé par un mystérieux pouvoir, et Murphy, son environnement pas toujours coopératif.
 Durée moyenne d’une partie : environ 20 à 30 mn.
 8 pages.
-(lien)[https://axolotl-jdr.itch.io/un-monde-pour-moi]
+[lien](https://axolotl-jdr.itch.io/un-monde-pour-moi)
 
 **L’automne des géants**
 L’Automne des Géants est un jeu paisible et calme pour 1 à 5 joueurs et des parties de 2 heures ou +
 
 C’est un jeu collaboratif dans lequel les joueurs incarnent un groupe d’humains qui guide et protège un Géant en route pour se reposer pendant l’hiver. Une partie de l’Automne des Géants raconte un voyage paisible et mélancolique au travers de lieux isolés et merveilleux. C’est l’histoire d’un petit groupe de personnes qui feront tout pour protéger leur ami.
 [lien](https://matthieu-be.itch.io/automne-des-geants)
+
+**Cozy Town**
+Ce jeu est l’occasion de s’asseoir avec ses ami·e·s et de créer ensemble un charmant village. Vous y passerez une année entière au fil des saisons, traversant un printemps rieur, un été ensoleillé, un doux automne et un hiver au coin du feu. Ensemble, vous explorerez ce qui fait que les personnes – et les communautés dans lesquelles elles vivent – se sentent en sécurité et à l’aise.
+
+Si vous aimez les jeux qui vous font faire « aaawww » et vous font sentir tout doux et plein de joie, c’est le jeu qu’il vous faut, à vous et à vos ami·e·s !
+[lien](https://willox.itch.io/cozy-town-vf)
+
+[d'autres jeux sur ce thème](https://www.cestpasdujdr.fr/les-jeux-doudous-pour-prendre-soin-de-soi-et-des-autres/)
+
+
+##Science-Fiction et jeu de rôle : explorer l’autre
+
+Les JDR et la SF c’est plus de 120 “gros jeux” édités depuis les années 70. Pour plus de 1.500 ouvrages (livre de règles, suppléments, etc.)
+Il en existe de toutes les formes, tous les formats sur tous les genres et sous genres de la SF.
+Depuis l’arrivée d’internet et l’émergence du phénomène d’auto édition, ce chiffre de 120 a explosé et se serait bien difficile de compter les JDR de SF. Sans doute bien plus de 300.
+
+La SF a toujours été présente dans les jeux de rôle. Dès l’apparition du loisir tel qu’on le connait aujourd’hui dans les années 70, les joueurs ne se privaient pas pour mélanger allègrement donjons, dragons et pistolets laser, soucoupe volante etc.
+
+Une rapide rétrospective des titres les + marquants:
+
+### Les années 70
+-Traveler, 1977 plus de 230 ouvrages et suppléments. Le Donjon et Dragon de la SF
+- Métamorphosis Alpha (de Jim Ward) 1976
+- Starfaring (de Ken St. André) 1976
+- Flash Gordon & the Warriors of Mongo  1977
+- Space Patrol 1977
+- Space Quest 1977
+- Gamma World John Carter,  1978
+- Warlord of Mars Starships & Spacemen 1978 
+- Star Trek: Adventure Gaming in the Final Frontier 1978
+
+### Les années 80
+- 2300 AD, 1986 space op
+- MEGA 1984
+- Starwars 1987
+- ShadowRun 1989
+- Bitume 1986
+
+### Les années 90
+- Star Trek : Deep Space Nine 1999
+- Fading Sun 1996
+
+###Les années 2000
+- Star Without numbers, 2010
+- Babylon 5; 2003
+- Battlestar Galactica 2007
+- Dark Hersy (univers warhammer) 2007
+- Eclipse Phase 2009
+- Apocalypse World 2010
+
+###Les année 20XX
+- Dune (sept 2021)
+- Oreste, production francophone par ElderCraft
+- Alien
+- Starfinder
+
+###L’explosion de l’auto publication, petits éditeurs, Jam
+- Ultra Violet GrassLand
+- Mothership
+- Dream Askew
+- Bois Dormant
+- [Jam Emotional Mecha Jam 177 jeux créés](https://itch.io/jam/sad-mecha-game-jam)
+- [Jam Ad Astram : 75 jeux créés](https://itch.io/jam/ad-astra-jam)
+- [Jam The Apocalypse Jam : 80 jeux](https://itch.io/jam/welcome-to-the-apocalypse)
+- [Jam Applied Hope](https://itch.io/jam/applied-hope)
+- [Jam Solar Punk](https://itch.io/jam/solarpunk-jam)
+
+
+
+
