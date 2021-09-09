@@ -1,6 +1,6 @@
 # Les Intercalactiques
 ## Jeux de rôle et tables rondes en live pour les Intergalactiques
-(https://intergalactiques.net/wp-content/uploads/2021/09/INTERCALACTIQUES_3.jpg)
+![bannières des intercalactiques](https://intergalactiques.net/wp-content/uploads/2021/09/INTERCALACTIQUES_3.jpg)
 
 ## Découvrir le jeu de rôle : jouer l’autre
 Lors de cette table ronde, nous évoquons différents jeux de rôle sympathiques pour débuter. Voici une petite sélection.
