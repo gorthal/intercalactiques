@@ -9,7 +9,7 @@ Lors de cette table ronde, nous évoquons différents jeux de rôle sympathiques
 **Sanctuaire (fantasy)**
 Auteur : Acritarche
 Jdr d’héroïque fantasy, kit d’initiation complet : règles, scénario, prétirés, et extrêmement didactique pour aider le MJ a proposer, improviser, comprendre la logique du jeu. 
-[lien(https://www.philibertnet.com/fr/dungeon-world/51008-sanctuaire-2100000401895.html)
+[lien](https://www.philibertnet.com/fr/dungeon-world/51008-sanctuaire-2100000401895.html)
 
 **Chroniques Oubliées**
 Editeur : Black Books Edition
@@ -151,22 +151,67 @@ Une rapide rétrospective des titres les + marquants:
 - Eclipse Phase 2009
 - Apocalypse World 2010
 
-###Les année 20XX
+### Les année 20XX
 - Dune (sept 2021)
 - Oreste, production francophone par ElderCraft
 - Alien
 - Starfinder
 
-###L’explosion de l’auto publication, petits éditeurs, Jam
-- Ultra Violet GrassLand
-- Mothership
-- Dream Askew
-- Bois Dormant
+### L’explosion de l’auto publication, petits éditeurs, Jam
+- [Ultra Violet GrassLand](https://wizardthieffighter.itch.io/ultraviolet-grasslands-and-the-black-city-uvg)
+- [Mothership](https://itch.io/c/817769/mothership)
+- [Dream Askew](https://buriedwithoutceremony.com/dream-askew)
+- [Bois Dormant](http://melville-games.com/jeux-de-roles/bois-dormant/)
 - [Jam Emotional Mecha Jam 177 jeux créés](https://itch.io/jam/sad-mecha-game-jam)
 - [Jam Ad Astram : 75 jeux créés](https://itch.io/jam/ad-astra-jam)
 - [Jam The Apocalypse Jam : 80 jeux](https://itch.io/jam/welcome-to-the-apocalypse)
 - [Jam Applied Hope](https://itch.io/jam/applied-hope)
 - [Jam Solar Punk](https://itch.io/jam/solarpunk-jam)
+
+
+### Le JDR SF à l'international et sa fonction politique.
+#### RPGSEA (RPG South East Asia)
+Une communauté regroupant de nombreux pays (Malaisie, Philippines, Indonésie, ..) [lien vers leur site](https://across-rpgsea.com/)
+L’auteurice Jami Nedjadi s’est fait une spécialité de mêler culture et questions sociales des philipines avec des jeux de fantasy et de SF.
+
+***Balikbayan (2019)***
+Un jeu post cyberpunk dans lequel on joue des êtres magiques extraits de leurs habitats sur Terre pour être exploités dans la conquête de l’espace par de grosses corporations. On joue leur retour sur Terre alors qu’ils prennent la fuite et retrouvent leur liberté. 
+
+Balikbayan est un terme utilisé pour désigner un Philippin qui rentre chez lui, généralement après avoir travaillé quelque temps dans un autre pays. Balik : retour, Bayan : pays
+En raison des ramifications à long terme du colonialisme, l’économie des Philippines rend difficile de soutenir la plupart de ses citoyens et de leur fournir des emplois adéquats et la formation dont ils ont besoin. Beaucoup sont forcés à devenir des travailleurs domestiques, des ouvriers, et passent des années loin de chez eux, incapables de rentrer chez eux. Ils doivent souvent endurer de grandes difficultés (leur passeport leur est retiré, ils se font arnaquer par des gens qui promettent alors un emploi mais en obtiennent un autre, les conditions de travail sont inhumaines, etc).
+Même ceux qui bénéficient d’un traitement « plus équitable » ne peuvent généralement rentrer chez eux qu’une fois par an, pour quelques jours seulement. L’ironie, c’est qu’ils prennent généralement soin de la famille de quelqu’un d’autre, alors qu’ils ne peuvent pas être avec la leur.
+Sur une note plus heureuse, Balikbayan peut aussi faire référence à ceux qui ont la chance d’émigrer et de devenir citoyens d’un autre pays. Les Philippines ont une diaspora importante, beaucoup de gens qui sont d’origine philippine mais qui n’ont jamais ou rarement visité les Philippines. Quand ils viennent ici, on les appelle encore « Balikbayan », culturellement on ne reconnaît pas quand quelqu’un va dans un autre pays, leurs enfants sont nés aux Etats-Unis, ils sont fondamentalement américains (américains-philippins au mieux), mais quand ils viennent ici on les appelle encore « Balikbayan ».
+[lien](https://temporalhiccup.itch.io/balikbayan)
+
+***Once More Into the Void***
+Un jeu créé par Jami comme une déclaration d’amour à la série Picard spin off de Star Trek. Enormément d’éléments queers sont inclus dans ce jeu dans lequel on joue un ancien groupe de héros qui se sont quitté pour de bonnes et de mauvaises raisons et qui vont devoir rempiler pour une dernière mission pour sauver le monde.
+[lien](https://temporalhiccup.itch.io/once-more-into-the-void)
+
+***ECH0***
+Un jeu créé par le collectif roleoverplaydead ( [lien vers leur site](http://roleoverplaydead.com/) ) dans lequel on joue un groupe d’enfants dans un monde après guerre qui découvre sur les ruines d’un champ de bataille plein de caracasses de robots géants une capsule mémoire contenant l’esprit d’un pilote embarqué dans cette guerre depuis longtemps terminé. Un jeu qui parle de mémoire de la guerre et du monde d’après.
+[disponible en français ici](https://khelren.itch.io/ech0)
+
+***ARC**
+Un jeu post apo par Momatoes une autrice malaisienne
+[lien](https://arc-rpg.com/)
+
+#### RPGLATAM
+Collectif de joueurs et auteurs d'Amérique Latine
+- [Solar Blades and Cosmic Spells, by Diogo Nogueira](https://www.drivethrurpg.com/product/260378/Solar-Blades--Cosmic-Spells)
+- Nibiru by Federico Sohns is an amazingly good sci fi. Not lasers and starships, but a completely different context between humanity, technology and alien creatures. [lien](https://www.araukana.com/nibiru-3)
+
+#### New Afro-Futurist RPG
+Un mouvement de création de jeux de SF centrés sur les histoires et cultures africaines
+- [ORUN Post-Apotheosis, Afro-Centric, Space Opera RPG](https://www.drivethrurpg.com/product/350467/ORUN-PostApotheosis-Space-Opera-RPG)
+- [OTAKU](https://kotaku.com/new-afro-futurist-rpg-is-a-fresh-break-from-sci-fis-tir-1833820017)
+- [Nyambe](https://www.atlas-games.com/nyambe)
+- [Into the mother lands](https://www.kickstarter.com/projects/cypheroftyr/into-the-mother-lands-rpg?ref=android_project_share)
+
+### D'autres jeux de par le monde
+- [Tenra Bansho Zero](https://www.drivethrurpg.com/product/111713/Tenra-Bansho-Zero-Heaven-and-Earth-Edition)
+- [Tékumel](http://www.legrog.org/jeux/tekumel)
+
+
 
 
 
