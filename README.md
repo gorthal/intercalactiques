@@ -194,7 +194,7 @@ Un jeu créé par le collectif roleoverplaydead ( [lien vers leur site](http://r
 [disponible en français ici](https://khelren.itch.io/ech0)
 
 ***ARC**
-Un jeu post apo par Momatoes une autrice malaisienne
+Un jeu post apo par Momatoes une autrice vivant aux Philippines.
 [lien](https://arc-rpg.com/)
 
 #### RPGLATAM
