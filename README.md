@@ -2,7 +2,7 @@
 ## Jeux de rôle et tables rondes en live pour les Intergalactiques
 ![bannières des intercalactiques](https://intergalactiques.net/wp-content/uploads/2021/09/INTERCALACTIQUES_3.jpg)
 
-Les vidéos live sont disponibles sur [la chaîne Twitch de La Cale](https://www.twitch.tv/la_cale?lang=fr)
+Les vidéos live captées les 11 et 12 septembre 2021 sont disponibles sur [la chaîne Twitch de La Cale](https://www.twitch.tv/la_cale?lang=fr)
 
 ## Découvrir le jeu de rôle : jouer l’autre
 Lors de cette table ronde, nous évoquons différents jeux de rôle sympathiques pour débuter. Voici une petite sélection.
