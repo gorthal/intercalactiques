@@ -113,7 +113,7 @@ Si vous aimez les jeux qui vous font faire « aaawww » et vous font sentir tout
 [d'autres jeux sur ce thème](https://www.cestpasdujdr.fr/les-jeux-doudous-pour-prendre-soin-de-soi-et-des-autres/)
 
 
-##Science-Fiction et jeu de rôle : explorer l’autre
+## Science-Fiction et jeu de rôle : explorer l’autre
 
 Les JDR et la SF c’est plus de 120 “gros jeux” édités depuis les années 70. Pour plus de 1.500 ouvrages (livre de règles, suppléments, etc.)
 Il en existe de toutes les formes, tous les formats sur tous les genres et sous genres de la SF.
