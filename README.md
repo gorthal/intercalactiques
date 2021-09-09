@@ -23,30 +23,37 @@ https://www.black-book-editions.fr/catalogue.php?id=477
 **Le jeu du destin (fantasy)**
 Auteur : Acritarche
 2 jeux de 54 cartes avec des éléments visuels (recto illustration), narratifs (description et conseil d’utilisation en jeu) et mécaniques (règles pour utiliser en jeu). Chaque carte représente un lieu, un personnage, un objet, un défi à utiliser en jeu pour relancer l’histoire, se donner des idées et pourquoi créer des scénarios sur le pouce.
+[lien](http://acritarche.com/index.php/2018/05/15/cartes-du-destin/)
 
 ### Jeu complet :
-**Ladyblack Bird (sf)**
+**Lady Blackbird (sf)**
 Auteur : John Harper
 Jeu narratif complet avec description de l’univers, scenario (campagne), prétirés, règles complètes. Les règles sont plus compliquées que celles d’un kit d’initiation mais très abordables. L’histoire entre Star Wars et Firefly vous permettra de vivre une aventure épique Space Opera teintée de steampunk.
+[lien](http://www.ecuries-augias.fr/index.php/fr/lady-blackbird)
 
 **Macchiato Monsters (fantasy)**
 Auteur : Eric Nieudan
 Jeu OSR (old school) qui propose de reprendre une façon de jouer proche des premiers jdr où l’on jouera des aventuriers explorant des mondes et donjons remplis de dangers et de trésors. Le jeu ne contient pas de scénario mais énormément d’aides de jeu (tables à l’aléatoire) pour créer notre propre univers, nos propres aventures et avoir tous les outils qu’il nous faut pour improviser. Ce type de jeu est plus orienté défi que narration.
+[lien](https://www.drivethrurpg.com/product/352901/Macchiato-Monsters-Edition-Noisette-FR)
 
 ### Gammes :
 **Sombre (horreur)**
 Auteur :
 Johan Scipion
 La gamme Sombre est constituée de nombreux jeux en format zine. Chacun contient ce qu’il faut pour jouer comme dans un film d’horreur (les règles, les aides, etc.) Choisissez votre film !
+[Lien](https://www.terresetranges.net/sombre.html)
 
 **Pour la Reine (Fantasy)**
 Auteure : Alex Roberts
 Jdr sans MJ. Règles très simples : en tirant des cartes sur lesquelles sont inscrites des questions, on va créer une histoire. Ici, l’escorte de la reine, va-t-elle la trahir quand elle sera attaquée.
+[lien](https://www.philibertnet.com/fr/bragelonne/89958-pour-la-reine-3770011038183.html)
+[pour y jouer en ligne](https://forthedrama.com/games/pour-la-reine)
 
 **Donjons et Siphons (fantasy parodique)**
 Auteur : Nicolas le Vif
 Même mécanique que Pour la Reine mais cette fois on va jouer pour savoir qui deviendra le président du SEAU, l’association des monstres qui lavent les toilettes du donjon !
-[For the drama](https://www.forthedrama.com/)
+[lien](https://www.gigamic.com/jeu/donjons-et-siphons)
+[pour y jouer en ligne](https://forthedrama.com/games/donjons-siphons)
 
 ### Jdr solo ou à 2
 
@@ -216,7 +223,9 @@ Un mouvement de création de jeux de SF centrés sur les histoires et cultures a
 - [Tékumel](http://www.legrog.org/jeux/tekumel)
 
 
-
+## Symbioses
+Au cours de la convention, nous jouons au jeu de rôle Symbiose inspiré de la série TV Sense8.
+Vous pouvez jouer à ce jeu [depuis le site For The Drama](https://forthedrama.com/games/hdc)
 
 
 
