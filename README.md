@@ -9,6 +9,7 @@ Lors de cette table ronde, nous évoquons différents jeux de rôle sympathiques
 **Sanctuaire (fantasy)**
 Auteur : Acritarche
 Jdr d’héroïque fantasy, kit d’initiation complet : règles, scénario, prétirés, et extrêmement didactique pour aider le MJ a proposer, improviser, comprendre la logique du jeu. 
+(lien)[https://www.philibertnet.com/fr/dungeon-world/51008-sanctuaire-2100000401895.html]
 
 ### Aide de jeu :
 **Le jeu du destin (fantasy)**
@@ -40,7 +41,15 @@ Même mécanique que Pour la Reine mais cette fois on va jouer pour savoir qui d
 For the drama (site/appli plein de jdr avec différents thèmes sur internet)
 
 ### Jdr solo ou à 2
-Aller voir sur c’est pas du jdr ou suivez Angela Quidam sur twitter ou itchio !
+
+**Angela Quidam**
+Angela est fan de jeux de rôle solo, vous trouverez son travail de recueil de jeux, ses créations et son blog ici :
+- (Une collection de +1.000 jeux solo)[https://itch.io/c/574927/the-hermits-club-all-solo-ttrpgs-and-larps-on-itchio]
+- (Le blog d'Angela)[https://ermites.club/]
+- (Sa page itch.io)[https://angela-quidam.itch.io/]
+
+**C'est Pas du JDR : les jeux solos**
+Un article plein de ressources à découvrir (lien)[https://www.cestpasdujdr.fr/les-jeux-de-role-solo/]
 
 ### Petits jdrs indés 
 [Les Jeux de Guillaume Jentey](https://guillaumejentey.itch.io/)
