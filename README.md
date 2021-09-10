@@ -36,6 +36,26 @@ Auteur : Eric Nieudan
 Jeu OSR (old school) qui propose de reprendre une façon de jouer proche des premiers jdr où l’on jouera des aventuriers explorant des mondes et donjons remplis de dangers et de trésors. Le jeu ne contient pas de scénario mais énormément d’aides de jeu (tables à l’aléatoire) pour créer notre propre univers, nos propres aventures et avoir tous les outils qu’il nous faut pour improviser. Ce type de jeu est plus orienté défi que narration.
 [lien](https://www.drivethrurpg.com/product/352901/Macchiato-Monsters-Edition-Noisette-FR)
 
+**Tranchons et Traquons**
+Un jeu super bien fichu et facile à prendre en main [lien](http://www.lapinmarteau.com/tranchons-et-traquons/)
+
+**Green Dawn Mall**
+Un jeu qui mêle étrange et exploration dans un univers fantastique atypique : celui d'un grand magasin des années 80!
+Les joueurs incarnent un groupe d'ados à la recherche d'un de leurs amis qui a récemment disparu.
+Très simple à prendre en main, le jeu regorge d'aides et de bon conseils.
+[lien](https://emojk.itch.io/green-dawn-mall-vf)
+
+
+**Pack Horse Library** 
+Dans Pack Horse Library, nous incarnons des femmes du Kentucky des années 1930. Ces femmes ont un rôle bien particulier dans leur communauté : ce sont des bibliothécaires itinérantes. Dans une région plongée dans la misère et l’isolement, elles parcourent les sentiers escarpés des Appalaches pour aller lire des livres aux habitants des vallées alentours.
+
+Nous allons jouer leur quotidien, entre leurs devoirs envers leurs familles et les tournées à cheval. C’est un jeu dans lequel nous allons mettre en valeur leur engagement, leur solidarité et leurs victoires méconnues.
+[lien](https://leonardchabert.wixsite.com/packhorselibrary)
+
+**La clef des nuages** de kf. "La Clé des nuages est sous-titré "jeu de rôle symboliste et poétique pour deux personnes". Le jeu de rôle est ici au service d'une proposition très originale, littéraire, esthétique, sensible et intellectuelle. C'est un outil pour défricher des territoires narratifs inédits, explorer de grandes questions existentielles, partager des visions inspirées, confronter des imaginaires et en tirer des moments de grâce."
+ [lien](https://www.dystopia.fr/a/collectif/la-cle-des-nuages)
+
+
 ### Gammes :
 **Sombre (horreur)**
 Auteur :
@@ -144,29 +164,31 @@ Une rapide rétrospective des titres les + marquants:
 - Star Trek: Adventure Gaming in the Final Frontier 1978
 
 #### Les années 80
+- Empire Galactique 1984
+- - MEGA 1984
 - 2300 AD, 1986 space op
-- MEGA 1984
+- Bitume 1986
 - Starwars 1987
 - ShadowRun 1989
-- Bitume 1986
+
 
 #### Les années 90
-- Star Trek : Deep Space Nine 1999
 - Fading Sun 1996
+- Star Trek : Deep Space Nine 1999
 
 #### Les années 2000
-- Star Without numbers, 2010
 - Babylon 5; 2003
 - Battlestar Galactica 2007
 - Dark Hersy (univers warhammer) 2007
 - Eclipse Phase 2009
 - Apocalypse World 2010
-
+- Star Without numbers, 2010
+-
 #### Les année 20XX
-- Dune (sept 2021)
 - Oreste, production francophone par ElderCraft
 - Alien
 - Starfinder
+- Dune (sept 2021)
 
 #### L’explosion de l’auto publication, petits éditeurs, Jam
 - [Ultra Violet GrassLand](https://wizardthieffighter.itch.io/ultraviolet-grasslands-and-the-black-city-uvg)
