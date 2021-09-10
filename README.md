@@ -219,8 +219,9 @@ Un mouvement de création de jeux de SF centrés sur les histoires et cultures a
 - [Into the mother lands](https://www.kickstarter.com/projects/cypheroftyr/into-the-mother-lands-rpg?ref=android_project_share)
 
 ### D'autres jeux de par le monde
-- [Tenra Bansho Zero](https://www.drivethrurpg.com/product/111713/Tenra-Bansho-Zero-Heaven-and-Earth-Edition)
-- [Tékumel](http://www.legrog.org/jeux/tekumel)
+- [Coyote & Crow](https://www.kickstarter.com/projects/connoralexander/coyote-and-crow) qui se déroule dans un futur alternatif des Amériques où la colonisation par les occidentaux n'a jamais eu lieu.
+- [Tenra Bansho Zero](https://www.drivethrurpg.com/product/111713/Tenra-Bansho-Zero-Heaven-and-Earth-Edition) un jeu "Hyper Asiatique" comme le décrit son auteur, mêlant magie et haute technologie.
+- [Tékumel: Empire of the Petal Throne ](http://www.legrog.org/jeux/tekumel) un jeu de 1974 créé par le professeur Muhammad Abd-el-Rahman Barker très inspiré  de l'Inde, de la Mésoamérique et de l'Égypte antique.
 
 
 ## Symbioses
